@@ -35,8 +35,9 @@ There is also an editor option for maps for those who want to edit maps and have
 2. D/Right Arrow Kwy --> go right
 3. W/Up Arrow Key --> go up
 4. S/Down Arrow Kwy --> go down
-5. Enter --> Save
-6. G --> put offgrid elements across the map
-7. T --> autofill the gaps around the elements
-8. Scroll to go across different elements
-9. Shift + Scroll to go across the elements of the same type.
+5. Mouse Right Click --> delete elements
+6. Enter --> Save
+7. G --> put offgrid elements across the map
+8. T --> autofill the gaps around the elements
+9. Scroll to go across different elements
+10. Shift + Scroll to go across the elements of the same type.
